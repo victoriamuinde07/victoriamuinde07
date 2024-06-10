@@ -1,4 +1,4 @@
-# victoria-mwikali
+# victoriamuinde07
 <h1 align="center">Hi 👋, I'm Victoria Mwikali</h1>
 <h3 align="center">A passionate Software and Robotic Engineer from Kenya.</h3>
 
