@@ -1,14 +1,14 @@
 #victoriamuinde
 <h1 align="center">Hi 👋, I'm Victoria Muinde</h1>
-<h3 align="center">A passionate Software Developer. Lets venture together</h3>
+<h3 align="center">Enterprenuer👌||Data Scientist🎇||Tech Trainer😍||</h3>
 
 - 🔭 I’m currently working on [Riaor project](https://riaor-restaurant.vercel.app/,https://riaor-construction.vercel.app/)
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **Machine Learning and other things🎯**
 
-- 📫 How to reach me **victoriamuinde07@gmail.com**
+- 📫 How to reach me **email**
 
-- ⚡ Fun fact **Am a happy industrious soul.**
+- ⚡ Fun fact **Gamble everything for Love darling❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
