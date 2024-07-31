@@ -1,4 +1,6 @@
 #victoriamuinde
+![wondeer](https://github.com/user-attachments/assets/4a4ff344-2212-49a1-ad16-40bc831a6115)
+
 <h1 align="center">Hi 👋, I'm Victoria Muinde</h1>
 <h3 align="center">Enterprenuer👌||Data Scientist🎇||Tech Trainer😍||</h3>
 
